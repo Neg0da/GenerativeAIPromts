@@ -13,7 +13,7 @@ Form a universal database of useful prompts.
 Share best practices among users.
 
 # 📂 Catalog
-1. Improving AI responses (memory required)
+1. [Improving AI responses (memory required)](https://github.com/Neg0da/GenerativeAIPromts/blob/dev/promts/1.ChatImprovement)
 
 
 # 🔥 How to Use
